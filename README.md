@@ -1,0 +1,5 @@
+# plain-ajax
+
+```
+$ npm start
+```
